@@ -1,7 +1,6 @@
 # Data Analytics - Final Project
 
 **Contributors:**
-*Juan Diego Carvajal Castaño @RigobertoBolanos*
-*Juan Manuel Imbachí Güengue @JuanImbachi*
+_Juan Diego Carvajal Castaño **@RigobertoBolanos**_, _Juan Manuel Imbachí Güengue **@JuanImbachi**_
 
-###### Repository for the final project of data analytics. Icesi 2020-2
+#### Repository for the final project of data analytics. Icesi 2020-2
